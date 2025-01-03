@@ -1,14 +1,14 @@
 # Invisibility Cloak
 
-A computer vision project that creates an "invisibility cloak" effect using a webcam. The project captures a background image and replaces areas of a specific color in the video feed with the background, creating the illusion of invisibility. Built with OpenCV and NumPy.
+A computer vision project that creates an "invisibility cloak" effect using a webcam. The project captures a background image and replaces areas of a specific color in the video feed with the background, creating the illusion of invisibility. Built with **OpenCV and NumPy**.
 
 ## Project Status
 
-The project is currently in the development phase. Future updates may include:
-
+The project is currently works for blue color as cloak. Future updates may include:
+ 
 - Improved color detection for more accurate invisibility effects.
 - Enhanced user interface for easier interaction.
-- Support for additional color ranges and customization.
+- Flexibility for additional vloak color ranges and customization.
 
 ## Project Screen Shot(s)
 
